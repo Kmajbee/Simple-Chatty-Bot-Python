@@ -2,4 +2,8 @@ Simple Chatty Bot or S.C.B is a python program from jb academy who use to just s
 How it work? 
 Is takeing a input from you and applies for program who have pattern and prints it.
 
+Research: ChatGPT
+Support: JetBrains Academy
+
+
 I think that's all...
